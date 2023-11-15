@@ -1,0 +1,10 @@
+genotypename: /wynton/group/capra/data/wynton_databases/ancient_dna/V54.1.p1/v54.1.p1_1240K_public.geno
+snpname: /wynton/group/capra/data/wynton_databases/ancient_dna/V54.1.p1/v54.1.p1_1240K_public.snp
+indivname: /wynton/group/capra/data/wynton_databases/ancient_dna/V54.1.p1/v54.1.p1_1240K_public.ind
+outputformat: ANCESTRYMAP
+chrom: 11
+lopos: 63066671
+hipos: 63072310
+genooutfilename: /wynton/group/capra/projects/SLC22A10/data/rs1790218_proxy_variants.geno
+snpoutfilename: /wynton/group/capra/projects/SLC22A10/data/rs1790218_proxy_variants.snp
+indoutfilename: /wynton/group/capra/projects/SLC22A10/data/rs1790218_proxy_variants.ind

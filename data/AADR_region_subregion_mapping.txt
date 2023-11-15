@@ -1,0 +1,145 @@
+China	East Asia	Asia
+Albania	Eastern Europe	Europe
+Armenia	Central Asia	Asia
+Bahamas	Americas	Americas
+Belize	Americas	Americas
+Bulgaria	Eastern Europe	Europe
+Cuba	Americas	Americas
+Czech Republic	Central Europe	Europe
+Dominican Republic	Americas	Americas
+United Kingdom	Western Europe	Europe
+Germany	Central Europe	Europe
+Greece	Southern Europe	Europe
+Iran	Western Asia	Asia
+Iraq	Western Asia	Asia
+Israel	Western Asia	Asia
+Jordan	Western Asia	Asia
+Malawi	Central Africa	Africa
+Montenegro	Southern Europe	Europe
+Russia	Northern Asia	Asia
+Turkey	Western Asia	Asia
+Ukraine	Eastern Europe	Europe
+Barbados	Americas	Americas
+Afghanistan	Western Asia	Asia
+Taiwan	East Asia	Asia
+..	NaN	NaN
+Argentina	Americas	Americas
+USA	Americas	Americas
+Australia	Oceania	Oceania
+Austria	Central Europe	Europe
+Peru	Americas	Americas
+Azerbaijan 	Central Asia	Asia
+Mexico	Americas	Americas
+Pakistan	South Asia	Asia
+BotswanaOrNamibia	Southern Africa	Africa
+Kenya	Eastern Africa	Africa
+Angola	Southern Africa	Africa
+South Africa	Southern Africa	Africa
+Lesotho	Southern Africa	Africa
+France	Western Europe	Europe
+Bangladesh	South Asia	Asia
+Belgium	Western Europe	Europe
+India	South Asia	Europe
+Italy	Southern Europe	Europe
+Central African Republic	Central Africa	Africa
+Bolivia	Americas	Americas
+Bosnia-Herzegovina	Southern Europe	Europe
+Botswana	Southern Africa	Africa
+Papua New Guinea	Oceania	Oceania
+Brazil	Americas	Americas
+Myanmar	South Asia	Asia
+Cambodia	South Asia	Asia
+Cameroon	Central Africa	Africa
+Canada	Americas	Americas
+Canary Islands	Western Europe	Europe
+Channel Islands	Americas	Americas
+Chile	Americas	Americas
+China 	East Asia	Asia
+Colombia	Americas	Americas
+DR Congo	Central Africa	Africa
+Crimea	Eastern Europe	Europe
+Croatia	Southern Europe	Europe
+Curacao	Americas	Americas
+Cyprus	Southern Europe	Europe
+Denmark	Northern Europe	Europe
+South Sudan	Northern Africa	Africa
+Kyrgyzstan	Central Asia	Asia
+Brunei	South Asia	Asia
+Egypt	Northern Africa	Africa
+Nigeria	Northern Africa	Africa
+Estonia	Eastern Europe	Europe
+Ethiopia	Northern Africa	Africa
+Faroes	Americas	Americas
+Finland	Northern Europe	Europe
+French Polynesia	Oceania	Oceania
+Gambia	Western Africa	Africa
+Georgia	Central Asia	Asia
+Gibraltar	Northern Africa	Africa
+Greenland	Northern Europe	Europe
+Guadeloupe	Americas	Americas
+Guam	Oceania	Oceania
+Haiti	Americas	Americas
+Hungary	Central Europe	Europe
+Spain	Western Europe	Europe
+Iceland	Northern Europe	Europe
+Namibia	Southern Africa	Africa
+Senegal	Western Africa	Africa
+Congo	Central Africa	Africa
+Algeria	Northern Africa	Africa
+Philippines	South Asia	Asia
+Indonesia	South Asia	Asia
+Ireland	Western Europe	Europe
+Isle of Man	Western Europe	Europe
+Japan	East Asia	Asia
+Yemen	Western Asia	Asia
+Uzbekistan	Central Asia	Asia
+Kazakhstan	Central Asia	Asia
+Vietnam	South Asia	Asia
+South Korea	East Asia	Asia
+Nepal	South Asia	Asia
+Laos	South Asia	Asia
+Latvia	Eastern Europe	Europe
+Lebanon	Western Asia	Asia
+Lithuania	Eastern Europe	Europe
+Luxembourg	Western Europe	Europe
+North Macedonia	Southern Europe	Europe
+Malaysia	South Asia	Asia
+New Zealand	Oceania	Oceania
+Sierra Leone	Western Africa	Africa
+Federated States of Micronesia	Oceania	Oceania
+Moldova	Eastern Europe	Europe
+Mongolia	Central Asia	Asia
+Morocco	Northern Africa	Africa
+Netherlands	Western Europe	Europe
+Norway	Northern Europe	Europe
+Panama	Americas	Americas
+Poland	Central Europe	Europe
+Portugal	Western Europe	Europe
+Puerto Rico	Americas	Americas
+Romania	Eastern Europe	Europe
+Abkhazia	Northern Europe	Europe
+Western Sahara (Morocco)	Northern Africa	Africa
+Serbia	Southern Europe	Europe
+Slovakia	Central Europe	Europe
+Slovenia	Southern Europe	Europe
+Solomon Islands	Oceania	Oceania
+St. Lucia	Americas	Americas
+Sri Lanka	South Asia	Asia
+Sudan	Central Africa	Africa
+Sweden	Northern Europe	Europe
+Switzerland	Central Europe	Europe
+Syria	Western Asia	Asia
+Tajikistan	Central Asia	Asia
+Tanzania	Eastern Africa	Africa
+Thailand	South Asia	Asia
+Tonga	Oceania	Oceania
+Turkey 	Western Asia	Asia
+Turkmenistan	Central Asia	Asia
+Uganda	Eastern Africa	Africa
+Vanuatu	Oceania	Oceania
+Venezuela	Americas	Americas
+Zambia	Southern Africa	Africa
+Czechia 	Central Europe	Europe
+Gernamy	Central Europe	Europe
+Uruguay	Americas	Americas
+Tunisia	Northern Africa	Africa
